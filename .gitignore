@@ -9,3 +9,9 @@ pretrained_models/
 
 # Ignore the experiments results folder
 results/
+
+# Ignore the dataset folder
+dataset/
+
+# Third party libaraies
+third-party/
